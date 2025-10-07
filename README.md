@@ -11,7 +11,7 @@ All experiments were executed on the **USC CARC High Performance Computing (HPC)
 ```
 cnn-concrete-classifier-hpc/
 │
-├── Vraj_Patel.py              # Main CNN implementation (TensorFlow/Keras)
+├── main.py              # Main CNN implementation (TensorFlow/Keras)
 ├── vraj.slurm                 # SLURM job submission script for HPC
 ├── vraj_job.out               # HPC execution output log
 │
